@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>Internal-releases</name>
-        <url>http://35.227.115.185:8081/nexus/content/repositories/releases/</url>
+        <url>http://35.227.115.185:8081/nexus/content/repositories/wells/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>nternal-releases-snapshots</name>
-        <url>http://35.227.115.185:8081/nexus/content/repositories/snapshots/</url>
+        <url>http://35.227.115.185:8081/nexus/content/repositories/wellssnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
